@@ -8,9 +8,9 @@ The ZTE Speed is faster than the G4 Play because Android versions
 
 ---
 
-|                   | ZTE Speed | Moto G4 Play |
-|:-----------------:|:---------:|:------------:|
-|**Turbo over USB** |   10 sec  |    12 sec    |
-|**Turbo over WiFi**|   11 sec  |    13 sec    |
-| **Full over USB** |   17 sec  |    23 sec    |
-|**Full over WiFi** |   28 sec  |    34 sec    |
+|                   |**ZTE Speed**|**Moto G4 Play**|
+|:-----------------:|:-----------:|:--------------:|
+|**Turbo over USB** |    10 sec   |     12 sec     |
+|**Turbo over WiFi**|    11 sec   |     13 sec     |
+| **Full over USB** |    17 sec   |     23 sec     |
+|**Full over WiFi** |    28 sec   |     34 sec     |
