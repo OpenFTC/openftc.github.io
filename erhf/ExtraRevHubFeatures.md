@@ -190,3 +190,7 @@ You will need to define any colors you want to set the Hub's LED to in this XML 
 //Note: the "pink" in the below line corrasponds to the `name` attribute you declared for the color in the XML entry
 revHub.setLedColor(hardwareMap, R.color.pink);
 ```
+
+### Legality of changing the LED color in a match
+
+![Image here](ledColorChangeRuling.PNG)
