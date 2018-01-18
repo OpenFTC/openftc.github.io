@@ -69,14 +69,12 @@ much quicker than the non-Git method.
 
 ## Post-update Procedures
 
-1.  If you're updating from a pre-2.0 version (named OpenFTC-app), you'll need to approve removing the
-    OpenFTC module.
+1.  If you're updating from a pre-2.0 version (named OpenFTC-app), you'll need to approve removing the OpenFTC
+    module. You can also delete the OpenFTC folder (which should just contain a build folder by this point).
 
-2.  Delete the OpenFTC folder (which should just contain a build folder by this point).
+2.  Do a Gradle sync (`Tools > Android > Sync Project with Gradle Files` on Android Studio 3.0).
 
-3.  Do a Gradle sync (`Tools > Android > Sync Project with Gradle Files` on Android Studio 3.0).
-
-4.  After the Gradle sync has finished, you may have to reselect `TeamCode` from the dropdown menu between
+3.  After the Gradle sync has finished, you may have to reselect `TeamCode` from the dropdown menu between
     the Run and Build buttons.
 
 ## Troubleshooting
