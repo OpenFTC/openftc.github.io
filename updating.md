@@ -48,9 +48,10 @@ much quicker than the non-Git method.
 
 7.  Leave the strategy at `<default>`, leave the bottom four boxes unchecked, and click the `Pull` button.
 
-8.  If a window comes up with merge conflicts, use your best judgement to resolve them line-by-line. In
-    most cases, you don't want to accept an entire version of a particular file. If you need help with
-    this part, come ask in Discord.
+8.  If a window comes up with merge conflicts, use your best judgement to resolve them line-by-line. Merge
+    conflicts are much more likely if you've modified code in one of the non-TeamCode modules, or if you've
+    added additional modules (e.g. OpenCV).  In most cases, you don't want to accept an entire version of a
+    particular file. If you need help with this part, come ask in Discord.
 
 9.  If you had any merge conflicts, you'll need to commit the merge after resolving them. Otherwise, you
     can continue to the [post-update procedures](#post-update-procedures).
