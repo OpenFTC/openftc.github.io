@@ -1,7 +1,6 @@
 ﻿# Updating to a new version of OpenRC (aka OpenFTC-app)
 
-If you aren't already a user of OpenRC, you're in the wrong place. [See our guide for switching.]
-(switching)
+If you aren't already a user of OpenRC, you're in the wrong place. [See our guide for switching.](switching)
 
 These instructions consistently use the term "OpenRC". These instructions are identical regardless
 of whether or not you are updating from OpenFTC-app. This document uses the term "OpenFTC" by itself
