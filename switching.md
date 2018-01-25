@@ -36,13 +36,17 @@ and then restart Android Studio.
         If you don't care about those features and you want the app to deploy faster,
         use the Turbo version, with the command
         `git remote add upstream https://github.com/OpenFTC/OpenRC-turbo.git`.
+        
 2.  Pull from the OpenRC remote you just set up: `git pull upstream master`.
+
 3.  Resolve any merge conflicts. The most common reason for these is that you've
     added additional modules to the project. My preferred way to do this is by selecting
     `VCS > Git > Resolve Conflicts` from the menu bar in Android Studio. You'll need to
     have Git set up and enabled in Android Studio for this to work.
     ([See here](https://www.jetbrains.com/help/idea/using-git-integration.html).)
+
 4.  If you had any merge conflicts to resolve, you'll have to commit to finish the merge.
+
 5.  You're done! In the future, you can update to new versions of OpenRC with the command
     `git pull upstream master`.
 
