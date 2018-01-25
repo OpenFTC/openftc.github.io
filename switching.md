@@ -14,6 +14,7 @@ instructions. If that happens, install Git using
 and then restart Android Studio.
 
 1.  Set up your remotes. 
+
     a.  Note that the list of remotes is not synced using Git, so you should do this on any
         computers that have a copy of this repository.
     b.  Open the Terminal tab in Android Studio.
