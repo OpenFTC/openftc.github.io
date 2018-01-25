@@ -57,16 +57,26 @@ much quicker than the non-Git method.
     can continue to the [post-update procedures](#post-update-procedures).
 
 ## For non-Git users
+This option is not recommended if you might make any modifications to the app outside of
+the TeamCode folder, since those changes will be overwritten every time you update OpenRC.
+Instead, make a new fork of OpenRC and start using Git.
 
-1.  Download the zip file of the current master branch of your chosen OpenRC variant.  
+1. Close Android Studio
+
+2.  Make a copy of your FTC app folder as a backup. This is especially important if you've made any changes
+    outside of the `TeamCode/src` folder.
+
+3.  Download the zip file of the current master branch of your chosen OpenRC variant.  
     [Direct link for Standard](https://github.com/OpenFTC/OpenRC/archive/master.zip)  
     [Direct link for Turbo](https://github.com/OpenFTC/OpenRC-turbo/archive/master.zip)
 
-2.  Extract the zip file wherever you'd like your code to live (if you want to extract it to the same location
-    and same name as the old version, rename your old folder first).
 
-3.  Replace the `TeamCode\src` folder in this new folder with the `TeamCode\src` folder from your old folder.
-    **Do not** replace the entire `TeamCode` folder.
+4.  The zip file has a folder inside with the name of the repository. Extract the contents
+    of _that_ folder to your current FTC app folder. The idea is that you're overwriting all
+    of the official files with ones from OpenRC. Your OpModes will remain intact of course.
+
+5.  If you've modified any files that got overwritten, you'll need to re-modify them. You can use the files
+    in your backup folder as a reference.
 
 ## Post-update Procedures
 
