@@ -13,19 +13,23 @@ instructions. If that happens, install Git using
 [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git),
 and then restart Android Studio.
 
-1.  Set up your remotes. 
-
+1.  Set up your remotes.
 
     a.  Note that the list of remotes is not synced using Git, so you should do this on any
-        computers that have a copy of this repository.
+        computers that have a copy of this repository.  
+        
     b.  Open the Terminal tab in Android Studio.
+    
     c.  To see your current remotes and where they point, enter the command
         `git remote -v`.
+    
     d.  Your `origin` remote should point to wherever you're hosting your repository.
         You probably have a remote (usually named `upstream`) that points to the
         official FTC repository (`https://github.com/ftctechnh/ftc_app.git`). 
+    
     e.  Delete whatever remote points to the official FTC app. For example, 
         `git remote remove upstream`.
+    
     f.  Replace it with an `upstream` remote that points to whichever version of OpenRC
         that you prefer. If you want to have access to Blocks and OnBotJava, use the
         command `git remote add upstream https://github.com/OpenFTC/OpenRC.git`.
