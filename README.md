@@ -1,11 +1,9 @@
 ## Welcome to GitHub Pages
 
-[About OpenFTC](about-open-ftc)
+[About OpenRC](about-open-ftc)
 
 [Switching to OpenRC](switching)
 
 [Updating to a new version of OpenRC](updating)
-
-[Extra Rev Hub Features](/erhf/ExtraRevHubFeatures)
 
 [Benchmarks](benchmarks)
