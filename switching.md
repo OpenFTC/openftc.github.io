@@ -15,6 +15,7 @@ and then restart Android Studio.
 
 1.  Set up your remotes. 
 
+
     a.  Note that the list of remotes is not synced using Git, so you should do this on any
         computers that have a copy of this repository.
     b.  Open the Terminal tab in Android Studio.
@@ -47,7 +48,7 @@ This option is not recommended if you might make any modifications to the app ou
 the TeamCode folder, since those changes will be overwritten every time you update OpenRC.
 Instead, make a new fork of OpenRC and start using Git.
 
-1.  Close Android Studio
+1.  Close Android Studio.
 
 2.  Make a copy of your FTC app folder as a backup. This is especially important if you've made any changes
     outside of the `TeamCode/src` folder.
