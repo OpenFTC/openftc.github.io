@@ -9,6 +9,9 @@ and then quickly deploy a legal version of the app to your phone before a compet
 ### Note: Any modifications you make to any built-in modules other than FtcRobotController and TeamCode will NOT be applied when you are using the stock build variant.
 If you've added your own modules (e.g. for OpenCV), those are safe.
 
+The vuforia key feature will also work in the stock build variant, since it does not require modifications to any
+official modules.
+
 ## Instructions
 To switch between the "stock" and "openrc" build variants, choose `Build > Select Build Variant` from the menu.
 There's also a Build Variants tab in the lower left corner area of Android Studio  (assuming that you haven't
