@@ -20,3 +20,8 @@ Choose the appropriate option from the dropdown next to the `TeamCode` module. T
 When you switch to a new build variant, it's recommended to sync the project with the Gradle files. 
 For Android Studio 3.0, you can find that option under `Tools > Android`. Starting in Android Studio 3.1, that
 option is located in the `File` menu.
+
+## How it works
+
+The app is built using the stock, official AAR files, instead of the customized library modules. The ruling is that
+you can't modify these files, so the stock build variant is competition-legal.
