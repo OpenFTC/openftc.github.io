@@ -1,6 +1,7 @@
 ﻿---
 redirect_from: "/updating"
 ---
+
 # Updating to a new version of OpenRC (aka OpenFTC-app)
 
 If you aren't already a user of OpenRC, you're in the wrong place. [See our guide for switching.](switching)

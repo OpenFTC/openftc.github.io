@@ -1,6 +1,7 @@
 ﻿---
 redirect_from: "/switching"
 ---
+
 # Switching to OpenRC
 
 If you have any problems, ask for help on [our Discord server](http://discord.gg/2dcxvdF).
