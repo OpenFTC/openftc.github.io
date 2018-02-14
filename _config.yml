@@ -1,3 +1,6 @@
 theme: jekyll-theme-architect
-title: Welcome to the OpenFTC project!
-description: OpenFTC is an easily modifiable version of the FIRST Tech Challenge Robot Controller Android app
+title: OpenFTC
+description: Developing open-source software for FTC teams as a community
+
+plugins:
+  - jekyll-redirect-from

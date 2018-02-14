@@ -1,4 +1,7 @@
-﻿# OpenRC Stock Build Variant
+﻿---
+redirect_from: "/buildvariants/"
+---
+# OpenRC Stock Build Variant
 
 Beginning with version 2.0 beta 1, OpenRC projects have the ability to build a stock version of the app
 without moving any code. Modified SDKs

@@ -1,3 +1,6 @@
+---
+redirect_from: "/about/"
+---
 OpenRC is a modified version of the SDK created by members of the OpenFTC community.
 The goal of OpenRC is to add extra features and functionality to the official SDK,
 while being conscientious to ensure that any changes won't create new bugs which could
