@@ -1,6 +1,6 @@
 # OpenRC
 
-[About OpenRC](about-open-ftc)
+[About OpenRC](about)
 
 [Switching to OpenRC](switching)
 

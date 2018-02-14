@@ -1,5 +1,5 @@
 ﻿---
-redirect_from: "/updating/"
+redirect_from: "/updating"
 ---
 # Updating to a new version of OpenRC (aka OpenFTC-app)
 

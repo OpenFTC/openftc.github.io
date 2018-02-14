@@ -1,5 +1,5 @@
 ﻿---
-redirect_from: "/switching/"
+redirect_from: "/switching"
 ---
 # Switching to OpenRC
 

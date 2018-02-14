@@ -1,5 +1,5 @@
 ---
-redirect_from: "/buildvariants/"
+redirect_from: "/buildvariants"
 ---
 # OpenRC Stock Build Variant
 

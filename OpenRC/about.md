@@ -1,5 +1,5 @@
 ---
-redirect_from: "/about-open-ftc/"
+redirect_from: "/about-open-ftc"
 ---
 OpenRC is a modified version of the SDK created by members of the OpenFTC community.
 The goal of OpenRC is to add extra features and functionality to the official SDK,

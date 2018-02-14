@@ -1,5 +1,5 @@
 ---
-redirect_from: "/benchmarks/"
+redirect_from: "/benchmarks"
 ---
 All times are from pressing run in Android Studio to the splash screen appearing,
 after a trivial code change in the TeamCode module. The WiFi numbers were
