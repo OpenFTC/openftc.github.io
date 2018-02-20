@@ -1,3 +1,7 @@
+---
+redirect_from: "/openrc"
+---
+
 # OpenRC
 
 [About OpenRC](about)
