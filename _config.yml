@@ -4,3 +4,6 @@ description: Developing open-source software for FTC teams as a community
 
 plugins:
   - jekyll-redirect-from
+  
+github:
+  repository_url: https://github.com/OpenFTC
