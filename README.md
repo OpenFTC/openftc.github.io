@@ -1,3 +1,3 @@
-## Our Projects
+### Our Projects
 
-[OpenRC](OpenRC)
+### [OpenRC](OpenRC)
