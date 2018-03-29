@@ -2,9 +2,6 @@ theme: jekyll-theme-slate
 title: OpenFTC
 description: Developing open-source software for FTC teams as a community
 
- repository: https://github.com/OpenFTC
-
-
 plugins:
   - jekyll-redirect-from
   
